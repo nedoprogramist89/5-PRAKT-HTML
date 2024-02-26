@@ -1,0 +1,120 @@
+
+#main {
+     width: 1898px;
+     height: 970px;
+     left: -38px;
+     background: linear-gradient(150.71deg, #02012F 17.97%, rgba(0, 0, 0, 0.8) 79.82%);
+ }
+
+#text2 {
+    display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        fluid-container
+        justify-content: flex-end;
+        height: 1px;
+        padding: 100px;
+        padding-left: 140px;
+
+
+        font-family: 'Inter';
+         font-style: normal;
+         font-weight: 700;
+         font-size: 36px;
+         line-height: 44px;
+
+
+    color: #0B9CDB;
+}
+
+#text1 {
+   display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-end;
+        height: 10px;
+        padding-top: 230px;
+        padding-left: 70px;
+        border-left: 100px;
+        margin-left: 100px;
+        padding-bottom: 70px ;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+
+    color: #FFFFFF;
+}
+
+#knopka {
+    display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    justify-content: flex-end;
+        height: 1px;
+
+
+        width: 299px;
+        height: 70px;
+        left: 200px;
+        top: 100px;
+}
+
+
+#krug {
+
+    width: 200px;
+    height: 75px;
+
+
+    background: #0F92F0;
+    border-radius: 75px;
+}
+
+#textknopka {
+    display: flex;
+    width: 136px;
+    height: 24px;
+    left: 25px;
+    top: 25px;
+    padding: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 24px;
+
+    color: #FFFCFC;
+}
+
+#ikon {
+    display: flex;
+    justify-content: space-between;
+    fluid-container
+    width: 12px;
+    height: 182.89px;
+    left: 100.89px;
+    top: 100px;
+}
+
+#image1 {
+
+    width: 1000px;
+    height: 970px;
+    left: 900px;
+    top: 30px;
+
+    border-radius: 29px;
+}
+
+#image2 {
+
+    width: 1000px;
+    height: 328px;
+    left: 900px;
+    top: 520px;
+
+    border-radius: 54px;
+}
